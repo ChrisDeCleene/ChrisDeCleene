@@ -1,6 +1,6 @@
 [![ChrisDeCleene's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisDeCleene)](https://github.com/ChrisDeCleene/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChrisDeCleene&repo=github-readme-stats)](https://github.com/ChrisDeCleene/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=ChrisDeCleene)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisDeCleene)](https://github.com/ChrisDeCleene/github-readme-stats)
 
